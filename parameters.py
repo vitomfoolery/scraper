@@ -3,3 +3,5 @@ file_name = 'results_file.csv'
 
 linkedin_username = 'vitoaamartin@gmail.com'
 linkedin_password = 'D37O%2ve7qDf'
+
+# change
